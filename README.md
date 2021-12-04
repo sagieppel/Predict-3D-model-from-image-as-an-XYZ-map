@@ -5,6 +5,7 @@ Predict 3D model from and image  as an XYZ map that contain the XYZ coordinate p
 The same code with train model included (run out of the box) could be download from: [1](https://icedrive.net/0/531cYPvuTo)
 
 The net was trained using the SUN3D dataset that can be downloaded from [here](http://sun3d.cs.princeton.edu/) 
+
 Based on paper [Predicting 3D shapes, masks, and properties of materials, liquids, and
 objects inside transparent containers, using the TransProteus CGI dataset](https://arxiv.org/pdf/2109.07577.pdf) For more details
 
@@ -60,11 +61,4 @@ objects inside transparent containers, using the TransProteus CGI dataset](https
 Input image
 
 ![](XYZ_MAP.png)
-Predicted XYZ map
-
-
-![](PredictedModelPointCLoud.png)
-Predicted Point Cloud from XYZ map
-
-![](PredictedModelPointCloud2.png)
-Predicted point cloud from XYZ map
+Predicted XYZ map, Red green and blue channels represent the X Y and Z coordinates of the pixel
