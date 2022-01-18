@@ -1,4 +1,4 @@
-# Predict 3D model from image as an XYZ map
+# Predict 3D model from an image as an XYZ map
 
 Predict 3D model from and image  as an XYZ map that contain the XYZ coordinate per pixel (using convolutional net)
 
