@@ -1,5 +1,5 @@
 # Train net that predict XYZ map and segmentation of  scene
-# based on matter  https://arxiv.org/pdf/2109.07577.pdf
+# based on   https://arxiv.org/pdf/2109.07577.pdf
 #...............................Imports..................................................................
 import os
 import numpy as np
