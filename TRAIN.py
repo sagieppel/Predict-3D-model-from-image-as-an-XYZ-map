@@ -23,7 +23,8 @@ import SUN3DReader as DepthXYZReader
 
 #...............Other training paramters..............................................................................
 
-Sun3DDir=r"/media/breakeroftime/2T/Data_zoo/SUN_RGBD/uu/SUNRGBD//" # RGBD train folder
+Sun3DDir=r"/media/breakeroftime/2T/Data_zoo/SUN_RGBD/uu/SUNRGBD//# SUN3D  train folder, in the Sun3D dataset this folder should contain the following subfolders  kv1,kv2,realsense,xtion
+
 MinSize=300 # Min image dimension (height or width)
 MaxSize=900# Max image dimension (height or width)
 MaxPixels=800*800*3# Max pixels in a batch (not in image), reduce to solve out if memory problems
