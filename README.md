@@ -34,7 +34,7 @@ This network was run with Python 3.88 [Anaconda](https://www.anaconda.com/downlo
 ## Training
 
 1. Open Train.py
-3. Set the path to TransProteus train folders parameter "Sun3DDir" in the input parameter section . 
+3. Set the path to Sun3D datset folder to the parameter "Sun3DDir" in the input parameter section . 
 
 
 4. Run the script
